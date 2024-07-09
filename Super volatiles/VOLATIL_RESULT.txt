@@ -1,0 +1,9 @@
+200ep100it:
+- Sharpe Ratio: 0.10932501180535109
+- Portfolio Weights: [0.         0.42857143 0.57142857 0.         0.         0. 0.]
+- PSO Parameters: {'c1': 0.1, 'c2': 0.1, 'w': 1.5}
+
+500ep100it:
+- Sharpe Ratio: 0.10932501180535109
+- Portfolio Weights: [0.         0.42857143 0.57142857 0.         0.         0. 0.]
+- PSO Parameters: {'c1': 0.3, 'c2': 0.2, 'w': 1.5}
